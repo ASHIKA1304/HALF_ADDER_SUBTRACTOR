@@ -31,9 +31,11 @@ Borrow = A’B
 
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
-Figure -02 HALF Subtractor
+ Figrue -02 HALF Subractor
+
 
 **Truthtable**
+
 ![Screenshot 2024-12-09 182732](https://github.com/user-attachments/assets/24c87353-5680-4922-af74-089e81391d91)
 
 **Procedure**
